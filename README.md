@@ -25,6 +25,9 @@ After cloning the project, select the index.html page in the project and open it
   </a>
 </p>
 
+## Live Project Link 
+
+[API Request](https://drsalins.github.io/APIRequests/)
 ## Licence
 
 Siddarth_Salins_Mudaliar
